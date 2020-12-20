@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "applicationId": "com.parse.starter.test",
+  "variantType": "ANDROID_TEST",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 13,
+        "versionName": "1.1",
+        "outputFile": "ParseStarterProject-debug-androidTest.apk",
+        "fullName": "debugAndroidTest",
+        "baseName": "debug-androidTest",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {}
+    }
+  ]
+}
