@@ -6,6 +6,6 @@
 .This tutorial is an illustration of how to quickly build an app using Parse. 
 
 # 📲Features
-1.Sign up/Login using aws ec2 \
+1.User can sign up and sign in to the login screen \
 2. User List \
 3. real time one to one chat application. \
